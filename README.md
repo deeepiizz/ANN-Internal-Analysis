@@ -1,6 +1,6 @@
 # ANN-Internal-Analysis
 1️. Clone the Repository
-git clone https://github.com/your-username/ANN-Internal-Analysis.git
+git clone https://github.com/deeepiizz/ANN-Internal-Analysis.git
 cd ANN-Internal-Analysis
 
 2️. Create a Virtual Environment (Recommended)
